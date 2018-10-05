@@ -2,8 +2,6 @@ body{
 
 	background: turquoise;
 
-	
-
 }
 
 nav ul li{
@@ -61,7 +59,7 @@ img{
 
 div p{
 
-	margin-left: 300px;
+	margin-left: 400px;
 
 	margin-right:300px;
 }
@@ -81,10 +79,10 @@ div p.bright a.spl-linkb{
 
 	color: white;
 
-	background: orangered
+	background-color: orangered;
 	text-decoration: none;
 
-	border: 5px solid #ff7f24;
+	border: 5px solid orangered;
 
 	border-radius: 4%;
 }
